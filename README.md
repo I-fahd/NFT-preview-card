@@ -1,4 +1,5 @@
 # NFT-preview-card
 
 ##live demo
-[live demo]([https://website-name.com](https://i-fahd.github.io/NFT-preview-card/))
+My favorite Craigslist category is [Missed Connections](https://newyork.craigslist.org/d/missed-connections/search/mis 'The best place on the internet').
+
