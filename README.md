@@ -1,7 +1,5 @@
 # NFT-preview-card
 
-##live demo
 
-
-##[Live Demo](https://newyork.craigslist.org/d/missed-connections/search/mis 'The best place on the internet').
+##[Live Demo](https://i-fahd.github.io/NFT-preview-card/ 'NFT preview card').
 
